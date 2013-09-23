@@ -1,1 +1,1 @@
-HTML Renderer code is hosted on GitHub: [url:ArthurHub/HTML-Renderer|https://github.com/ArthurHub/HTML-Renderer]
+HTML Renderer code is hosted on GitHub: [ArthurHub/HTML-Renderer](https://github.com/ArthurHub/HTML-Renderer)
